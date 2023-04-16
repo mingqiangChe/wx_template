@@ -1,0 +1,1 @@
+<view class="container"><view class="addresss"><view class="address_left">{{a}}</view><view class="address_right"><image class="imgg" src="{{b}}" mode=""></image></view></view></view>

@@ -1,0 +1,14 @@
+
+.addresss {
+	/* 	display: flex;
+		padding: 0 30rpx; */
+}
+.addresss .address_left {}
+.address_right {
+		width: 60rpx;
+		height: 40rpx;
+}
+.address_right .imgg {
+		width: 60rpx !important;
+		height: 40rpx !important;
+}

@@ -1,0 +1,57 @@
+{
+	"pages": [{
+		"path": "pages/main/index",
+		"style": {
+			"navigationBarTitleText": "",
+			//取消导航栏占位
+			"navigationStyle": "custom"
+		}
+	}, {
+		"path": "pages/component/club/club",
+		"style": {
+			"navigationBarTitleText": "星享俱乐部",
+			"enablePullDownRefresh": false
+		}
+	}, {
+		"path": "pages/component/scanCode/scanCode",
+		"style": {
+			"navigationBarTitleText": "",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/component/goods/goods",
+		"style": {
+			"navigationBarTitleText": "订单",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/component/my/my",
+		"style": {
+			"navigationBarTitleText": "我的",
+			"enablePullDownRefresh": false
+		}
+
+	}    ,{
+            "path" : "pages/component/index/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/component/components/index/loginCertificate",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"uniIdRouter": {}
+}
+0

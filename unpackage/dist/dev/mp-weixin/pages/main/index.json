@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "navbar": "../component/components/tabbar",
+    "index": "../component/index/index",
+    "club": "../component/club/club",
+    "scan-code": "../component/scanCode/scanCode",
+    "goodsx": "../component/goods/goods",
+    "my": "../component/my/my"
+  }
+}

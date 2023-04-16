@@ -1,0 +1,1 @@
+<view class="contain_box data-v-dc9cbcaa"><view wx:for="{{a}}" wx:for-item="item" wx:key="h" bindtap="{{item.g}}" class="imgs_box data-v-dc9cbcaa"><view class="{{['data-v-dc9cbcaa', item.c]}}"><image class="{{['data-v-dc9cbcaa', item.a]}}" src="{{item.b}}" mode=""></image></view><text wx:if="{{item.d}}" class="{{['data-v-dc9cbcaa', item.f]}}">{{item.e}}</text></view></view>

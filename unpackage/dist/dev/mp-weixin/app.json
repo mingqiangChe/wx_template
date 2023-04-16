@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/main/index",
+    "pages/component/club/club",
+    "pages/component/scanCode/scanCode",
+    "pages/component/goods/goods",
+    "pages/component/my/my",
+    "pages/component/index/index",
+    "pages/component/components/index/loginCertificate"
+  ],
+  "usingComponents": {}
+}
